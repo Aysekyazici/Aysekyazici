@@ -2,7 +2,7 @@
 
 Electrical-Electronics Engineer specializing in embedded systems, autonomous vehicles, and CAN Bus architectures.
 ## 📄 Portfolio
-[View my portfolio](./Ayse_Kadriye_Yazici.pdf)
+[View my portfolio](./Ayse_Kadriye_Yazici_Portfolyo.pdf)
 
 ## 💼 Experience
 - Embedded Software Developer — Remergen Mekatronik
